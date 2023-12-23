@@ -37,3 +37,10 @@ Here are some ideas to get you started:
 </div>
 
 ## 📫 About
+
+<p></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='30'>](https://twilight-breeze-021.notion.site/6e4f90ca598c4eeea0a0ad1290a061dc?pvs=4) **Notion**
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://ggobukggobuk.tistory.com/)  **Website**
+
