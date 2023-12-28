@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ~~~
+<div>
+  MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발 (2023-05-12 ~ 2023-11-16)
+</div>
+
+
 ## 🛠 Stacks
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
