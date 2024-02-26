@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 **MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(앱)개발 (2023-05-12 ~ 2023-11-16)**
 
-**~HKNET**
-
 
 ## 🛠 Stacks
 <div style="display: flex; flex-wrap: wrap;">
